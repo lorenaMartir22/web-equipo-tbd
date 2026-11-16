@@ -1,4 +1,4 @@
 const FLAGS = { galeria: false };
 if (FLAGS.galeria) {
-  document.getElementById("galeria").hidden = false;
+  document.getElementById("galeria").hidden = true;
 }
